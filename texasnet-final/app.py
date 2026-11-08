@@ -69,7 +69,7 @@ st.sidebar.metric('Connected components', f'{len(graph.component_sizes):,}')
 st.sidebar.metric('Largest component', f'{graph.largest_size / graph.n:.2%}')
 st.sidebar.caption(f'{len(landmarks.nodes)} farthest-first landmarks · CSR adjacency')
 st.sidebar.divider()
-st.sidebar.markdown('**What a route means**')
+
 st.sidebar.info('Each road segment costs **1 hop**. The dataset has no GPS coordinates, road lengths, speed limits, or city labels. Visualizations are topological schematics, not maps.')
 st.sidebar.markdown('[Dataset documentation](https://snap.stanford.edu/data/roadNet-TX.html)')
 
