@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Local",
+    "source": 918454,
+    "target": 918849,
+    "reference_hops": 28
+  },
+  {
+    "category": "Regional",
+    "source": 918454,
+    "target": 383065,
+    "reference_hops": 183
+  },
+  {
+    "category": "Long-range",
+    "source": 918454,
+    "target": 990282,
+    "reference_hops": 426
+  },
+  {
+    "category": "Local",
+    "source": 121954,
+    "target": 121541,
+    "reference_hops": 16
+  },
+  {
+    "category": "Regional",
+    "source": 121954,
+    "target": 57844,
+    "reference_hops": 131
+  },
+  {
+    "category": "Long-range",
+    "source": 121954,
+    "target": 724778,
+    "reference_hops": 413
+  },
+  {
+    "category": "Local",
+    "source": 1081288,
+    "target": 1091670,
+    "reference_hops": 24
+  },
+  {
+    "category": "Regional",
+    "source": 1081288,
+    "target": 894840,
+    "reference_hops": 179
+  },
+  {
+    "category": "Long-range",
+    "source": 1081288,
+    "target": 1037922,
+    "reference_hops": 458
+  }
+]

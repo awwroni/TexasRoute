@@ -1,0 +1,4 @@
+algorithm,executions,valid_paths,shortest_optimal_paths,successful_searches,Optimal-path accuracy (%),Valid-route rate (%),Search success (%)
+A* (ALT),54,54,54,54,100.0,100.0,100.0
+A* (h=0),54,54,54,54,100.0,100.0,100.0
+BFS,54,54,54,54,100.0,100.0,100.0

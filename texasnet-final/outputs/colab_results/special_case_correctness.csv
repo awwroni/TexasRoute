@@ -1,0 +1,10 @@
+scenario,algorithm,expected_found,predicted_found,returned_hops,correct
+same source and destination,BFS,True,True,0.0,True
+same source and destination,A* (ALT),True,True,0.0,True
+same source and destination,A* (h=0),True,True,0.0,True
+disconnected components,BFS,False,False,,True
+disconnected components,A* (ALT),False,False,,True
+disconnected components,A* (h=0),False,False,,True
+reverse disconnected query,BFS,False,False,,True
+reverse disconnected query,A* (ALT),False,False,,True
+reverse disconnected query,A* (h=0),False,False,,True

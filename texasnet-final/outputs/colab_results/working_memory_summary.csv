@@ -1,0 +1,4 @@
+algorithm,median_search_arrays_MB,max_search_arrays_MB,median_peak_frontier,max_peak_frontier
+A* (ALT),17.938921,17.938921,1115.0,32160.0
+A* (h=0),12.419253,12.419253,1507.0,5005.0
+BFS,5.519668,5.519668,1479.5,4948.0

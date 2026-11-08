@@ -1,0 +1,2 @@
+python,numpy,scipy,platform,seed,sources,distance_bands,repetitions,landmarks,dataset_source,dataset_size_bytes,parse_sec,graph_build_sec,landmark_build_sec,reference_sampling_sec,benchmark_wall_sec,total_notebook_seconds
+3.13.5,2.3.5,1.17.0,Linux-6.18.57-x86_64-with-glibc2.41,2026,6,"{'Local': (10, 40), 'Regional': (100, 200), 'Long-range': (350, 650)}",3,8,https://snap.stanford.edu/data/roadNet-TX.txt.gz,12442024,1.0825924360000272,1.2365504289999762,3.5044872639999767,2.3220262900000535,134.64013906600007,154.27320351499998
